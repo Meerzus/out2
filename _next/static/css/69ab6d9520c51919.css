@@ -1,0 +1,1 @@
+.staticCssPage{font-weight:700;justify-content:center;min-width:100vw;min-height:100vh;flex-direction:column}.cssComponent,.staticCssPage{display:flex;align-items:center;gap:20px}.cssComponent{padding:10px 20px;border:1px dashed red;border-radius:20px;color:red;justify-content:flex-start}.cssComponent span{padding:10px;border:1px solid pink;border-radius:20px;color:pink}
